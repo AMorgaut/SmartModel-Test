@@ -1,5 +1,4 @@
-##Welcome to Wakanda##
+##SmartModel Test##
 
-This is the place to describe your Wakanda application.
+a simple Wakanda project to test the [SmartModel API](https://github.com/AMorgaut/smartModel)
 
-Please visit [www.wakanda.org](http://www.wakanda.org "wakanda.org") for more information.
