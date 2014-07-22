@@ -1,0 +1,3 @@
+[submodule "SmartModel-Test/Modules/smartModel"]
+	path = SmartModel-Test/Modules/smartModel
+	url = git://github.com/AMorgaut/smartModel.git
